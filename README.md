@@ -8,12 +8,18 @@ npm create vite@latest
 
 4. Install necessary tools like Redux / SCSS / React-Router-Dom / prettier with the following commands
 
-npm install @reduxjs/toolkit react-redux
+npm install @reduxjs/toolkit react-redux 
+
 npm install json-server
+
 npm install react-router-dom
+
 npm install - save-dev prettier
+
 npm install redux-thunk
+
 npm install redux-saga
+
 npm install @apollo/client graphql
 
 5. Project is All set.
